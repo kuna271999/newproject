@@ -1,0 +1,203 @@
+*{
+    margin: 0px;
+}
+
+body{
+    font-style:initial;
+   
+}
+span{
+    color: red;
+}
+header{
+    height: 10vh;
+    background-color: #4CAF50;
+    text-align: center;
+
+}
+#welcome{
+	margin-top:-420px;
+	color:black;
+	font-size:xx-large;
+}
+#tasktable{
+	margin-top:-200px;
+}
+.taskwhole{
+	margin-top:-100px;
+}
+#link{
+	margin-top:-520px;
+}
+.viewt{
+	margin-top:-200px;
+	margin-left:-1420px;
+}
+.view{
+	margin-top:-730px;
+	width:60%;
+	height:20%;
+	table-layout:auto;
+	margin-left:300px;
+	text-align:center;
+	padding-top:250px;
+}
+#sel{
+	margin-top:-572px;
+	margin-left:-12px;
+}
+#selectmethod{
+	margin-top: 113px;
+    margin-left: 1058px;
+    position: absolute;
+    width: 18px;
+    height: 15px;
+}
+#createtable{
+	margin-bottom:-135px;
+}
+#existtable{
+	margin-bottom:-135px;
+}
+#addtasktable{
+	margin-bottom:-70px;
+}
+#updatebutton{
+	margin-top:-100px;
+}
+.log{
+    position: absolute;
+    padding-left: 680px;
+    padding-top: 30px;
+}
+.h1{
+    position: absolute;
+    padding-left: 10px;
+}
+footer{
+    height: 10vh;
+    background-color: #4CAF50;
+}
+.foot{
+    margin-top: -45px;
+    padding-left: 1200px;
+    color: darkblue;
+}
+#whole{
+	height:80vh;
+}
+div{
+	height:80vh;
+}
+#r{
+    color: blue;
+}
+h1{
+    color: darkblue;
+    padding-top: 10px;
+}
+#addtasktable{
+	margin-top:-200px;
+}
+.h3{
+	margin-top:-540px;
+	margin-bottom:190px;
+}
+.tab{
+    margin-left: 300px;
+	margin-top:-440px;
+    font-size: large;
+    table-layout:auto;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+	margin-bottom : 100px;
+    height: 300px;
+    background-color: rgba(40, 47, 90, 0.219);
+    box-shadow: 0 15px 25px rgba(0, 0, 0, 0.644);
+
+}
+.tab1{
+    margin-left: 300px;
+	margin-top:-350px;
+    font-size: large;
+    table-layout:auto;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+	margin-bottom : 100px;
+    height: 300px;
+    background-color: rgba(40, 47, 90, 0.219);
+    box-shadow: 0 15px 25px rgba(0, 0, 0, 0.644);
+
+}
+
+h2{
+    text-align: center;
+    padding-top: 20px;
+    color: brown;
+}
+#assignuser{
+	margin-bottom:-550px;
+	margin-left:10px;
+}
+#userassign{
+	width:100px;
+	height:25px;
+}
+#taskgreen{
+	background-color:green;
+}
+#taskred{
+	background-color:red;
+}
+#but
+{
+    background-color: #4CAF50;
+    color: white;
+    padding: 16px 20px;
+    margin: 8px 0;
+    border: none;
+}
+#but1
+{
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    margin: 8px 0;
+    border: none;
+}
+#dow
+{
+    background-color: #4CAF50;
+    color: white;
+    padding: 16px 10px;
+    margin: 8px 0;
+    border: none;
+    width: 70%;   
+    text-decoration: none;
+}
+#dow1
+{
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 10px;
+    margin: 8px 0;
+    border: none;   
+    text-decoration: none;
+}
+#logouttask{
+	margin-left:1450px;
+	margin-top:-580px;
+}
+#logoutadd{
+	margin-left:1450px;
+	margin-top:-645px;
+}
+.new{
+    position: relative;
+    margin-left: 800px;
+    margin-top: -300px;
+}
